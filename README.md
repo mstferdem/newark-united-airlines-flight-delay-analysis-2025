@@ -1,4 +1,4 @@
-# United Airlines Departure Delay Analysis (EWR 2025)
+# United Airlines Departure Delay Analysis (EWR - 2025)
 ## Project Overview
 
 This project analyzes United Airlines flight departure performance from Newark Liberty International Airport (EWR) in 2025. The goal is to identify patterns in delays and understand how factors such as destination, time of day, and flight duration influence departure delays.
